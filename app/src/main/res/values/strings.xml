@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraOrGallery</string>
+    <string name="escolher_imagem">Escolher imagem</string>
+    <string name="escolha">Escolha:</string>
+</resources>
